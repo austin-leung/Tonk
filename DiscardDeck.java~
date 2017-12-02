@@ -1,0 +1,13 @@
+public class discardDeck {
+
+    //fields
+    private String topCard;
+    
+
+    //methods
+
+    public setTopCard() {
+    }
+
+    
+}
